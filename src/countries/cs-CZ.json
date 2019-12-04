@@ -1,0 +1,1502 @@
+[
+	{
+		"ABW": {
+			"official": "Aruba",
+			"common": "Aruba"
+		}
+	},
+	{
+		"AFG": {
+			"official": "Afghánská islámská republika",
+			"common": "Afghánistán"
+		}
+	},
+	{
+		"AGO": {
+			"official": "Angolská republika",
+			"common": "Angola"
+		}
+	},
+	{
+		"AIA": {
+			"official": "Anguilla",
+			"common": "Anguilla"
+		}
+	},
+	{
+		"ALA": {
+			"official": "Ålandské ostrovy",
+			"common": "Ålandy"
+		}
+	},
+	{
+		"ALB": {
+			"official": "Albánská republika",
+			"common": "Albánie"
+		}
+	},
+	{
+		"AND": {
+			"official": "Andorrské knížectví",
+			"common": "Andorra"
+		}
+	},
+	{
+		"ARE": {
+			"official": "Spojené arabské emiráty",
+			"common": "Spojené arabské emiráty"
+		}
+	},
+	{
+		"ARG": {
+			"official": "Argentinská republika",
+			"common": "Argentina"
+		}
+	},
+	{
+		"ARM": {
+			"official": "Arménská republika",
+			"common": "Arménie"
+		}
+	},
+	{
+		"ASM": {
+			"official": "Americká Samoa",
+			"common": "Americká Samoa"
+		}
+	},
+	{
+		"ATA": {
+			"official": "Antarktida",
+			"common": "Antarktida"
+		}
+	},
+	{
+		"ATF": {
+			"official": "Teritorium Francouzská jižní a antarktická území",
+			"common": "Francouzská jižní a antarktická území"
+		}
+	},
+	{
+		"ATG": {
+			"official": "Antigua a Barbuda",
+			"common": "Antigua a Barbuda"
+		}
+	},
+	{
+		"AUS": {
+			"official": "Australské společenství",
+			"common": "Austrálie"
+		}
+	},
+	{
+		"AUT": {
+			"official": "Rakouská republika",
+			"common": "Rakousko"
+		}
+	},
+	{
+		"AZE": {
+			"official": "Ázerbájdžánská republika",
+			"common": "Ázerbájdžán"
+		}
+	},
+	{
+		"BDI": {
+			"official": "Burundská republika",
+			"common": "Burundi"
+		}
+	},
+	{
+		"BEL": {
+			"official": "Belgické království",
+			"common": "Belgie"
+		}
+	},
+	{
+		"BEN": {
+			"official": "Beninská republika",
+			"common": "Benin"
+		}
+	},
+	{
+		"BFA": {
+			"official": "Burkina Faso",
+			"common": "Burkina Faso"
+		}
+	},
+	{
+		"BGD": {
+			"official": "Bangladéšská lidová republika",
+			"common": "Bangladéš"
+		}
+	},
+	{
+		"BGR": {
+			"official": "Bulharská republika",
+			"common": "Bulharsko"
+		}
+	},
+	{
+		"BHR": {
+			"official": "Království Bahrajn",
+			"common": "Bahrajn"
+		}
+	},
+	{
+		"BHS": {
+			"official": "Bahamské společenství",
+			"common": "Bahamy"
+		}
+	},
+	{
+		"BIH": {
+			"official": "Bosna a Hercegovina",
+			"common": "Bosna a Hercegovina"
+		}
+	},
+	{
+		"BLM": {
+			"official": "Svatý Bartoloměj",
+			"common": "Svatý Bartoloměj"
+		}
+	},
+	{
+		"SHN": {
+			"official": "Svatá Helena, Ascension a Tristan da Cunha",
+			"common": "Svatá Helena, Ascension a Tristan da Cunha"
+		}
+	},
+	{
+		"BLR": {
+			"official": "Běloruská republika",
+			"common": "Bělorusko"
+		}
+	},
+	{
+		"BLZ": {
+			"official": "Belize",
+			"common": "Belize"
+		}
+	},
+	{
+		"BMU": {
+			"official": "Bermudské ostrovy",
+			"common": "Bermudy"
+		}
+	},
+	{
+		"BOL": {
+			"official": "Mnohonárodnostní stát Bolívie",
+			"common": "Bolívie"
+		}
+	},
+	{
+		"BES": {
+			"official": "Karibské Nizozemsko",
+			"common": "Karibské Nizozemsko"
+		}
+	},
+	{
+		"BRA": {
+			"official": "Brazilská federativní republika",
+			"common": "Brazílie"
+		}
+	},
+	{
+		"BRB": {
+			"official": "Barbados",
+			"common": "Barbados"
+		}
+	},
+	{
+		"BRN": {
+			"official": "Sultanát Brunej",
+			"common": "Brunej"
+		}
+	},
+	{
+		"BTN": {
+			"official": "Bhútánské království",
+			"common": "Bhútán"
+		}
+	},
+	{
+		"BVT": {
+			"official": "Bouvetův ostrov",
+			"common": "Bouvetův ostrov"
+		}
+	},
+	{
+		"BWA": {
+			"official": "Botswanská republika",
+			"common": "Botswana"
+		}
+	},
+	{
+		"CAF": {
+			"official": "Středoafrická republika",
+			"common": "Středoafrická republika"
+		}
+	},
+	{
+		"CAN": {
+			"official": "Kanada",
+			"common": "Kanada"
+		}
+	},
+	{
+		"CCK": {
+			"official": "Kokosové ostrovy",
+			"common": "Kokosové ostrovy"
+		}
+	},
+	{
+		"CHE": {
+			"official": "Švýcarská konfederace",
+			"common": "Švýcarsko"
+		}
+	},
+	{
+		"CHL": {
+			"official": "Chilská republika",
+			"common": "Chile"
+		}
+	},
+	{
+		"CHN": {
+			"official": "Čínská lidová republika",
+			"common": "Čína"
+		}
+	},
+	{
+		"CIV": {
+			"official": "Republika Pobřeží slonoviny",
+			"common": "Pobřeží slonoviny"
+		}
+	},
+	{
+		"CMR": {
+			"official": "Kamerunská republika",
+			"common": "Kamerun"
+		}
+	},
+	{
+		"COD": {
+			"official": "Demokratická republika Kongo",
+			"common": "DR Kongo"
+		}
+	},
+	{
+		"COG": {
+			"official": "Konžská republika",
+			"common": "Kongo"
+		}
+	},
+	{
+		"COK": {
+			"official": "Cookovy ostrovy",
+			"common": "Cookovy ostrovy"
+		}
+	},
+	{
+		"COL": {
+			"official": "Kolumbijská republika",
+			"common": "Kolumbie"
+		}
+	},
+	{
+		"COM": {
+			"official": "Komorský svaz",
+			"common": "Komory"
+		}
+	},
+	{
+		"CPV": {
+			"official": "Kapverdská republika",
+			"common": "Kapverdy"
+		}
+	},
+	{
+		"CRI": {
+			"official": "Kostarická republika",
+			"common": "Kostarika"
+		}
+	},
+	{
+		"CUB": {
+			"official": "Kubánská republika",
+			"common": "Kuba"
+		}
+	},
+	{
+		"CUW": {
+			"official": "Autonomní země Curaçao",
+			"common": "Curaçao"
+		}
+	},
+	{
+		"CXR": {
+			"official": "Teritorium Vánočního ostrova",
+			"common": "Vánoční ostrov"
+		}
+	},
+	{
+		"CYM": {
+			"official": "Kajmanské ostrovy",
+			"common": "Kajmanské ostrovy"
+		}
+	},
+	{
+		"CYP": {
+			"official": "Kyperská republika",
+			"common": "Kypr"
+		}
+	},
+	{
+		"CZE": {
+			"official": "Česká republika",
+			"common": "Česko"
+		}
+	},
+	{
+		"DEU": {
+			"official": "Spolková republika Německo",
+			"common": "Německo"
+		}
+	},
+	{
+		"DJI": {
+			"official": "Džibutská republika",
+			"common": "Džibutsko"
+		}
+	},
+	{
+		"DMA": {
+			"official": "Dominikánské společenství",
+			"common": "Dominika"
+		}
+	},
+	{
+		"DNK": {
+			"official": "Dánské království",
+			"common": "Dánsko"
+		}
+	},
+	{
+		"DOM": {
+			"official": "Dominikánská republika",
+			"common": "Dominikánská republika"
+		}
+	},
+	{
+		"DZA": {
+			"official": "Alžírská demokratická a lidová republika",
+			"common": "Alžírsko"
+		}
+	},
+	{
+		"ECU": {
+			"official": "Ekvádorská republika",
+			"common": "Ekvádor"
+		}
+	},
+	{
+		"EGY": {
+			"official": "Egyptská arabská republika",
+			"common": "Egypt"
+		}
+	},
+	{
+		"ERI": {
+			"official": "Stát Eritrea",
+			"common": "Eritrea"
+		}
+	},
+	{
+		"ESH": {
+			"official": "Západní Sahara",
+			"common": "Západní Sahara"
+		}
+	},
+	{
+		"ESP": {
+			"official": "Španělské království",
+			"common": "Španělsko"
+		}
+	},
+	{
+		"EST": {
+			"official": "Estonská republika",
+			"common": "Estonsko"
+		}
+	},
+	{
+		"ETH": {
+			"official": "Etiopská federativní demokratická republika",
+			"common": "Etiopie"
+		}
+	},
+	{
+		"FIN": {
+			"official": "Finská republika",
+			"common": "Finsko"
+		}
+	},
+	{
+		"FJI": {
+			"official": "Republika Fidžijských ostrovů",
+			"common": "Fidži"
+		}
+	},
+	{
+		"FLK": {
+			"official": "Falklandské ostrovy",
+			"common": "Falklandy"
+		}
+	},
+	{
+		"FRA": {
+			"official": "Francouzská republika",
+			"common": "Francie"
+		}
+	},
+	{
+		"FRO": {
+			"official": "Faerské ostrovy",
+			"common": "Faerské ostrovy"
+		}
+	},
+	{
+		"FSM": {
+			"official": "Federativní státy Mikronésie",
+			"common": "Mikronésie"
+		}
+	},
+	{
+		"GAB": {
+			"official": "Gabonská republika",
+			"common": "Gabon"
+		}
+	},
+	{
+		"GBR": {
+			"official": "Spojené království Velké Británie a Severního Irska",
+			"common": "Spojené království"
+		}
+	},
+	{
+		"GEO": {
+			"official": "Gruzie",
+			"common": "Gruzie"
+		}
+	},
+	{
+		"GGY": {
+			"official": "Rychtářství Guernsey",
+			"common": "Guernsey"
+		}
+	},
+	{
+		"GHA": {
+			"official": "Ghanská republika",
+			"common": "Ghana"
+		}
+	},
+	{
+		"GIB": {
+			"official": "Gibraltar",
+			"common": "Gibraltar"
+		}
+	},
+	{
+		"GIN": {
+			"official": "Guinejská republika",
+			"common": "Guinea"
+		}
+	},
+	{
+		"GLP": {
+			"official": "Guadeloupe",
+			"common": "Guadeloupe"
+		}
+	},
+	{
+		"GMB": {
+			"official": "Gambijská republika",
+			"common": "Gambie"
+		}
+	},
+	{
+		"GNB": {
+			"official": "Republika Guinea-Bissau",
+			"common": "Guinea-Bissau"
+		}
+	},
+	{
+		"GNQ": {
+			"official": "Republika Rovníková Guinea",
+			"common": "Rovníková Guinea"
+		}
+	},
+	{
+		"GRC": {
+			"official": "Řecká republika",
+			"common": "Řecko"
+		}
+	},
+	{
+		"GRD": {
+			"official": "Grenada",
+			"common": "Grenada"
+		}
+	},
+	{
+		"GRL": {
+			"official": "Grónsko",
+			"common": "Grónsko"
+		}
+	},
+	{
+		"GTM": {
+			"official": "Republika Guatemala",
+			"common": "Guatemala"
+		}
+	},
+	{
+		"GUF": {
+			"official": "Francouzská Guyana",
+			"common": "Francouzská Guyana"
+		}
+	},
+	{
+		"GUM": {
+			"official": "Guam",
+			"common": "Guam"
+		}
+	},
+	{
+		"GUY": {
+			"official": "Kooperativní republika Guyana",
+			"common": "Guyana"
+		}
+	},
+	{
+		"HKG": {
+			"official": "Zvláštní administrativní oblast Čínské lidové republiky Hongkong",
+			"common": "Hongkong"
+		}
+	},
+	{
+		"HMD": {
+			"official": "Heardův ostrov a McDonaldovy ostrovy",
+			"common": "Heardův ostrov a McDonaldovy ostrovy"
+		}
+	},
+	{
+		"HND": {
+			"official": "Honduraská republika",
+			"common": "Honduras"
+		}
+	},
+	{
+		"HRV": {
+			"official": "Chorvatská republika",
+			"common": "Chorvatsko"
+		}
+	},
+	{
+		"HTI": {
+			"official": "Republika Haiti",
+			"common": "Haiti"
+		}
+	},
+	{
+		"HUN": {
+			"official": "Maďarsko",
+			"common": "Maďarsko"
+		}
+	},
+	{
+		"IDN": {
+			"official": "Indonéská republika",
+			"common": "Indonésie"
+		}
+	},
+	{
+		"IMN": {
+			"official": "Ostrov Man",
+			"common": "Ostrov Man"
+		}
+	},
+	{
+		"IND": {
+			"official": "Indická republika",
+			"common": "Indie"
+		}
+	},
+	{
+		"IOT": {
+			"official": "Britské indickooceánské území",
+			"common": "Britské indickooceánské území"
+		}
+	},
+	{
+		"IRL": {
+			"official": "Irsko",
+			"common": "Irsko"
+		}
+	},
+	{
+		"IRN": {
+			"official": "Islámská republika Írán",
+			"common": "Írán"
+		}
+	},
+	{
+		"IRQ": {
+			"official": "Irácká republika",
+			"common": "Irák"
+		}
+	},
+	{
+		"ISL": {
+			"official": "Island",
+			"common": "Island"
+		}
+	},
+	{
+		"ISR": {
+			"official": "Stát Izrael",
+			"common": "Izrael"
+		}
+	},
+	{
+		"ITA": {
+			"official": "Italská republika",
+			"common": "Itálie"
+		}
+	},
+	{
+		"JAM": {
+			"official": "Jamajka",
+			"common": "Jamajka"
+		}
+	},
+	{
+		"JEY": {
+			"official": "Rychtářství Jersey",
+			"common": "Jersey"
+		}
+	},
+	{
+		"JOR": {
+			"official": "Jordánské hášimovské království",
+			"common": "Jordánsko"
+		}
+	},
+	{
+		"JPN": {
+			"official": "Japonsko",
+			"common": "Japonsko"
+		}
+	},
+	{
+		"KAZ": {
+			"official": "Republika Kazachstán",
+			"common": "Kazachstán"
+		}
+	},
+	{
+		"KEN": {
+			"official": "Keňská republika",
+			"common": "Keňa"
+		}
+	},
+	{
+		"KGZ": {
+			"official": "Kyrgyzská republika",
+			"common": "Kyrgyzstán"
+		}
+	},
+	{
+		"KHM": {
+			"official": "Kambodžské království",
+			"common": "Kambodža"
+		}
+	},
+	{
+		"KIR": {
+			"official": "Republika Kiribati",
+			"common": "Kiribati"
+		}
+	},
+	{
+		"KNA": {
+			"official": "Federace Sv. Kryštof a Nevis",
+			"common": "Svatý Kryštof a Nevis"
+		}
+	},
+	{
+		"KOR": {
+			"official": "Korejská republika",
+			"common": "Jižní Korea"
+		}
+	},
+	{
+		"UNK": {
+			"official": "Kosovská republika",
+			"common": "Kosovo"
+		}
+	},
+	{
+		"KWT": {
+			"official": "Stát Kuvajt",
+			"common": "Kuvajt"
+		}
+	},
+	{
+		"LAO": {
+			"official": "Laoská lidově demokratická republika",
+			"common": "Laos"
+		}
+	},
+	{
+		"LBN": {
+			"official": "Libanonská republika",
+			"common": "Libanon"
+		}
+	},
+	{
+		"LBR": {
+			"official": "Liberijská republika",
+			"common": "Libérie"
+		}
+	},
+	{
+		"LBY": {
+			"official": "Stát Libye",
+			"common": "Libye"
+		}
+	},
+	{
+		"LCA": {
+			"official": "Svatá Lucie",
+			"common": "Svatá Lucie"
+		}
+	},
+	{
+		"LIE": {
+			"official": "Knížectví Lichtenštejnské",
+			"common": "Lichtenštejnsko"
+		}
+	},
+	{
+		"LKA": {
+			"official": "Srílanská demokratická socialistická republika",
+			"common": "Srí Lanka"
+		}
+	},
+	{
+		"LSO": {
+			"official": "Lesothské království",
+			"common": "Lesotho"
+		}
+	},
+	{
+		"LTU": {
+			"official": "Litevská republika",
+			"common": "Litva"
+		}
+	},
+	{
+		"LUX": {
+			"official": "Lucemburské velkovévodství",
+			"common": "Lucembursko"
+		}
+	},
+	{
+		"LVA": {
+			"official": "Lotyšská republika",
+			"common": "Lotyšsko"
+		}
+	},
+	{
+		"MAC": {
+			"official": "Zvláštní správní oblast Čínské lidové republiky Macao",
+			"common": "Macao"
+		}
+	},
+	{
+		"MAF": {
+			"official": "Svatý Martin",
+			"common": "Svatý Martin (Francie)"
+		}
+	},
+	{
+		"MAR": {
+			"official": "Marocké království",
+			"common": "Maroko"
+		}
+	},
+	{
+		"MCO": {
+			"official": "Monacké knížectví",
+			"common": "Monako"
+		}
+	},
+	{
+		"MDA": {
+			"official": "Moldavská republika",
+			"common": "Moldavsko"
+		}
+	},
+	{
+		"MDG": {
+			"official": "Madagaskarská republika",
+			"common": "Madagaskar"
+		}
+	},
+	{
+		"MDV": {
+			"official": "Maledivská republika",
+			"common": "Maledivy"
+		}
+	},
+	{
+		"MEX": {
+			"official": "Spojené státy mexické",
+			"common": "Mexiko"
+		}
+	},
+	{
+		"MHL": {
+			"official": "Republika Marshallovy ostrovy",
+			"common": "Marshallovy ostrovy"
+		}
+	},
+	{
+		"MKD": {
+			"official": "Makedonská republika",
+			"common": "Makedonie"
+		}
+	},
+	{
+		"MLI": {
+			"official": "Republika Mali",
+			"common": "Mali"
+		}
+	},
+	{
+		"MLT": {
+			"official": "Maltská republika",
+			"common": "Malta"
+		}
+	},
+	{
+		"MMR": {
+			"official": "Republika Myanmarský svaz",
+			"common": "Myanmar"
+		}
+	},
+	{
+		"MNE": {
+			"official": "Černá Hora",
+			"common": "Černá Hora"
+		}
+	},
+	{
+		"MNG": {
+			"official": "Stát Mongolsko",
+			"common": "Mongolsko"
+		}
+	},
+	{
+		"MNP": {
+			"official": "Společenství Severních Marian",
+			"common": "Severní Mariany"
+		}
+	},
+	{
+		"MOZ": {
+			"official": "Mosambická republika",
+			"common": "Mosambik"
+		}
+	},
+	{
+		"MRT": {
+			"official": "Mauritánská islámská republika",
+			"common": "Mauritánie"
+		}
+	},
+	{
+		"MSR": {
+			"official": "Montserrat",
+			"common": "Montserrat"
+		}
+	},
+	{
+		"MTQ": {
+			"official": "Martinik",
+			"common": "Martinik"
+		}
+	},
+	{
+		"MUS": {
+			"official": "Mauricijská republika",
+			"common": "Mauricius"
+		}
+	},
+	{
+		"MWI": {
+			"official": "Malawiská republika",
+			"common": "Malawi"
+		}
+	},
+	{
+		"MYS": {
+			"official": "Malajsie",
+			"common": "Malajsie"
+		}
+	},
+	{
+		"MYT": {
+			"official": "Mayotte",
+			"common": "Mayotte"
+		}
+	},
+	{
+		"NAM": {
+			"official": "Namibijská republika",
+			"common": "Namibie"
+		}
+	},
+	{
+		"NCL": {
+			"official": "Nová Kaledonie",
+			"common": "Nová Kaledonie"
+		}
+	},
+	{
+		"NER": {
+			"official": "Nigerská republika",
+			"common": "Niger"
+		}
+	},
+	{
+		"NFK": {
+			"official": "Teritorium ostrova Norfolk",
+			"common": "Norfolk"
+		}
+	},
+	{
+		"NGA": {
+			"official": "Nigerijská federativní republika",
+			"common": "Nigérie"
+		}
+	},
+	{
+		"NIC": {
+			"official": "Republika Nikaragua",
+			"common": "Nikaragua"
+		}
+	},
+	{
+		"NIU": {
+			"official": "Niue",
+			"common": "Niue"
+		}
+	},
+	{
+		"NLD": {
+			"official": "Nizozemské království",
+			"common": "Nizozemsko"
+		}
+	},
+	{
+		"NOR": {
+			"official": "Norské království",
+			"common": "Norsko"
+		}
+	},
+	{
+		"NPL": {
+			"official": "Federativní demokratická republika Nepál",
+			"common": "Nepál"
+		}
+	},
+	{
+		"NRU": {
+			"official": "Republika Nauru",
+			"common": "Nauru"
+		}
+	},
+	{
+		"NZL": {
+			"official": "Nový Zéland",
+			"common": "Nový Zéland"
+		}
+	},
+	{
+		"OMN": {
+			"official": "Sultanát Omán",
+			"common": "Omán"
+		}
+	},
+	{
+		"PAK": {
+			"official": "Pákistánská islámská republika",
+			"common": "Pákistán"
+		}
+	},
+	{
+		"PAN": {
+			"official": "Panamská republika",
+			"common": "Panama"
+		}
+	},
+	{
+		"PCN": {
+			"official": "Pitcairnovy ostrovy",
+			"common": "Pitcairnovy ostrovy"
+		}
+	},
+	{
+		"PER": {
+			"official": "Peruánská republika",
+			"common": "Peru"
+		}
+	},
+	{
+		"PHL": {
+			"official": "Filipínská republika",
+			"common": "Filipíny"
+		}
+	},
+	{
+		"PLW": {
+			"official": "Republika Palau",
+			"common": "Palau"
+		}
+	},
+	{
+		"PNG": {
+			"official": "Nezávislý stát Papua Nová Guinea",
+			"common": "Papua-Nová Guinea"
+		}
+	},
+	{
+		"POL": {
+			"official": "Polská republika",
+			"common": "Polsko"
+		}
+	},
+	{
+		"PRI": {
+			"official": "Portoriko",
+			"common": "Portoriko"
+		}
+	},
+	{
+		"PRK": {
+			"official": "Korejská lidově demokratická republika",
+			"common": "Severní Korea"
+		}
+	},
+	{
+		"PRT": {
+			"official": "Portugalská republika",
+			"common": "Portugalsko"
+		}
+	},
+	{
+		"PRY": {
+			"official": "Paraguayská republika",
+			"common": "Paraguay"
+		}
+	},
+	{
+		"PSE": {
+			"official": "Stát Palestina",
+			"common": "Palestina"
+		}
+	},
+	{
+		"PYF": {
+			"official": "Francouzská Polynésie",
+			"common": "Francouzská Polynésie"
+		}
+	},
+	{
+		"QAT": {
+			"official": "Stát Katar",
+			"common": "Katar"
+		}
+	},
+	{
+		"REU": {
+			"official": "Réunion",
+			"common": "Réunion"
+		}
+	},
+	{
+		"ROU": {
+			"official": "Rumunsko",
+			"common": "Rumunsko"
+		}
+	},
+	{
+		"RUS": {
+			"official": "Ruská federace",
+			"common": "Rusko"
+		}
+	},
+	{
+		"RWA": {
+			"official": "Rwandská republika",
+			"common": "Rwanda"
+		}
+	},
+	{
+		"SAU": {
+			"official": "Saúdskoarabské království",
+			"common": "Saúdská Arábie"
+		}
+	},
+	{
+		"SDN": {
+			"official": "Súdánská republika",
+			"common": "Súdán"
+		}
+	},
+	{
+		"SEN": {
+			"official": "Senegalská republika",
+			"common": "Senegal"
+		}
+	},
+	{
+		"SGP": {
+			"official": "Singapurská republika",
+			"common": "Singapur"
+		}
+	},
+	{
+		"SGS": {
+			"official": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+			"common": "Jižní Georgie a Jižní Sandwichovy ostrovy"
+		}
+	},
+	{
+		"SJM": {
+			"official": "Špicberky a Jan Mayen",
+			"common": "Špicberky a Jan Mayen"
+		}
+	},
+	{
+		"SLB": {
+			"official": "Šalamounovy ostrovy",
+			"common": "Šalamounovy ostrovy"
+		}
+	},
+	{
+		"SLE": {
+			"official": "Republika Sierra Leone",
+			"common": "Sierra Leone"
+		}
+	},
+	{
+		"SLV": {
+			"official": "Salvadorská republika",
+			"common": "Salvador"
+		}
+	},
+	{
+		"SMR": {
+			"official": "Republika San Marino",
+			"common": "San Marino"
+		}
+	},
+	{
+		"SOM": {
+			"official": "Somálská demokratická republika",
+			"common": "Somálsko"
+		}
+	},
+	{
+		"SPM": {
+			"official": "Saint-Pierre a Miquelon",
+			"common": "Saint-Pierre a Miquelon"
+		}
+	},
+	{
+		"SRB": {
+			"official": "Srbská republika",
+			"common": "Srbsko"
+		}
+	},
+	{
+		"SSD": {
+			"official": "Jihosúdánská republika",
+			"common": "Jižní Súdán"
+		}
+	},
+	{
+		"STP": {
+			"official": "Demokratická republika Svatý Tomáš a Princův ostrov",
+			"common": "Svatý Tomáš a Princův ostrov"
+		}
+	},
+	{
+		"SUR": {
+			"official": "Republika Surinam",
+			"common": "Surinam"
+		}
+	},
+	{
+		"SVK": {
+			"official": "Slovenská republika",
+			"common": "Slovensko"
+		}
+	},
+	{
+		"SVN": {
+			"official": "Slovinská republika",
+			"common": "Slovinsko"
+		}
+	},
+	{
+		"SWE": {
+			"official": "Švédské království",
+			"common": "Švédsko"
+		}
+	},
+	{
+		"SWZ": {
+			"official": "Svazijské království",
+			"common": "Svazijsko"
+		}
+	},
+	{
+		"SXM": {
+			"official": "Svatý Martin",
+			"common": "Svatý Martin (Nizozemsko)"
+		}
+	},
+	{
+		"SYC": {
+			"official": "Seychelská republika",
+			"common": "Seychely"
+		}
+	},
+	{
+		"SYR": {
+			"official": "Syrská arabská republika",
+			"common": "Sýrie"
+		}
+	},
+	{
+		"TCA": {
+			"official": "Turks a Caicos",
+			"common": "Turks a Caicos"
+		}
+	},
+	{
+		"TCD": {
+			"official": "Čadská republika",
+			"common": "Čad"
+		}
+	},
+	{
+		"TGO": {
+			"official": "Republika Togo",
+			"common": "Togo"
+		}
+	},
+	{
+		"THA": {
+			"official": "Thajské království",
+			"common": "Thajsko"
+		}
+	},
+	{
+		"TJK": {
+			"official": "Republika Tádžikistán",
+			"common": "Tádžikistán"
+		}
+	},
+	{
+		"TKL": {
+			"official": "Tokelau",
+			"common": "Tokelau"
+		}
+	},
+	{
+		"TKM": {
+			"official": "Turkmenistán",
+			"common": "Turkmenistán"
+		}
+	},
+	{
+		"TLS": {
+			"official": "Demokratická republika Východní Timor",
+			"common": "Východní Timor"
+		}
+	},
+	{
+		"TON": {
+			"official": "Království Tonga",
+			"common": "Tonga"
+		}
+	},
+	{
+		"TTO": {
+			"official": "Republika Trinidad a Tobago",
+			"common": "Trinidad a Tobago"
+		}
+	},
+	{
+		"TUN": {
+			"official": "Tuniská republika",
+			"common": "Tunisko"
+		}
+	},
+	{
+		"TUR": {
+			"official": "Turecká republika",
+			"common": "Turecko"
+		}
+	},
+	{
+		"TUV": {
+			"official": "Tuvalu",
+			"common": "Tuvalu"
+		}
+	},
+	{
+		"TWN": {
+			"official": "Čínská republika",
+			"common": "Tchaj-wan"
+		}
+	},
+	{
+		"TZA": {
+			"official": "Sjednocená tanzanská republika",
+			"common": "Tanzanie"
+		}
+	},
+	{
+		"UGA": {
+			"official": "Ugandská republika",
+			"common": "Uganda"
+		}
+	},
+	{
+		"UKR": {
+			"official": "Ukrajina",
+			"common": "Ukrajina"
+		}
+	},
+	{
+		"UMI": {
+			"official": "Menší odlehlé ostrovy Spojených států amerických",
+			"common": "Menší odlehlé ostrovy USA"
+		}
+	},
+	{
+		"URY": {
+			"official": "Uruguayská východní republika",
+			"common": "Uruguay"
+		}
+	},
+	{
+		"USA": {
+			"official": "Spojené státy americké",
+			"common": "Spojené státy"
+		}
+	},
+	{
+		"UZB": {
+			"official": "Republika Uzbekistán",
+			"common": "Uzbekistán"
+		}
+	},
+	{
+		"VAT": {
+			"official": "Městský stát Vatikán",
+			"common": "Vatikán"
+		}
+	},
+	{
+		"VCT": {
+			"official": "Svatý Vincenc a Grenadiny",
+			"common": "Svatý Vincenc a Grenadiny"
+		}
+	},
+	{
+		"VEN": {
+			"official": "Bolívarská republika Venezuela",
+			"common": "Venezuela"
+		}
+	},
+	{
+		"VGB": {
+			"official": "Britské Panenské ostrovy",
+			"common": "Britské Panenské ostrovy"
+		}
+	},
+	{
+		"VIR": {
+			"official": "Americké Panenské ostrovy",
+			"common": "Americké Panenské ostrovy"
+		}
+	},
+	{
+		"VNM": {
+			"official": "Vietnamská socialistická republika",
+			"common": "Vietnam"
+		}
+	},
+	{
+		"VUT": {
+			"official": "Republika Vanuatu",
+			"common": "Vanuatu"
+		}
+	},
+	{
+		"WLF": {
+			"official": "Teritorium ostrovů Wallis a Futuna",
+			"common": "Wallis a Futuna"
+		}
+	},
+	{
+		"WSM": {
+			"official": "Nezávislý stát Samoa",
+			"common": "Samoa"
+		}
+	},
+	{
+		"YEM": {
+			"official": "Jemenská republika",
+			"common": "Jemen"
+		}
+	},
+	{
+		"ZAF": {
+			"official": "Jihoafrická republika",
+			"common": "Jihoafrická republika"
+		}
+	},
+	{
+		"ZMB": {
+			"official": "Zambijská republika",
+			"common": "Zambie"
+		}
+	},
+	{
+		"ZWE": {
+			"official": "Zimbabwská republika",
+			"common": "Zimbabwe"
+		}
+	}
+]
