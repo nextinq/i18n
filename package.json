@@ -4,7 +4,8 @@
   "description": "i18n utils",
   "main": "lib/index.js",
   "files": [
-    "lib/**"
+    "lib/**",
+    "src/**"
   ],
   "repository": "git@github.com:nextinq/i18n",
   "author": "Josef Karamon <josef.karamon@gmail.com>",
