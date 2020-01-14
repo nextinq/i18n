@@ -1,6 +1,6 @@
 {
-  "name": "@nextinq/i18n",
-  "version": "1.0.1",
+  "name": "@nextinq.public/i18n",
+  "version": "1.0.2",
   "description": "i18n utils",
   "main": "lib/index.js",
   "files": [
